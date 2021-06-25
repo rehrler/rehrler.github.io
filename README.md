@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# rehrler
 
-You can use the [editor on GitHub](https://github.com/rehrler/rehrler.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## professional
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+i'm a robotic researcher at hslu mainly working on mobile robots.
 
-### Markdown
+## tool recommendations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### os
+- for my daily work, I prefer [kubuntu](https://kubuntu.org/).
+- on my private computer, I use [endeavouros](https://endeavouros.com/).
+- i mostly work with [ros](https://www.ros.org/) as message and service framework with nodes possible in c++ and python.
+- i prefer the ide's by [jetbrains](https://www.jetbrains.com/), especially clion for ros applications and pycharm for pure python projects.
 
-```markdown
-Syntax highlighted code block
+### privacy
+- try to prevent the usage of clouds
+- encrypt your disk with [luks](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup)
+- frequently backup your data on an encrypted external ssd
+- use a proper add block, such as [ublock](https://github.com/gorhill/uBlock)
+- use ee encrypted mail if possible, recommendation [protonmail](https://protonmail.com/)
+- prefer open source software
 
-# Header 1
-## Header 2
-### Header 3
+## book recommendations
 
-- Bulleted
-- List
+small list of my favorite books, magazines and newspapers
 
-1. Numbered
-2. List
+### fiction
+- _DE_ Der Held - Karl Ruehmann
+- _DE_ Stella - Takis Wuerger
+- _DE_ Hard Land - Benedict Wells
+- _DE_ Der ehemalige Sohn - Sasha Filipenko
+- _DE_ Siddhartha - Hermann Hesse
+- _DE_ Die Vermessung der Welt - Daniel Kehlmann
+- _DE_ Panikherz - Benjamin von Stuckrad-Barre
+- _DE_ So schoen wie hier kanns im Himmel gar nicht sein! - Christoph Schlingensief
+- _DE_ Das grosse Heft - Agota Kristof
+- _DE_ Tyll - Daniel Kehlmann
 
-**Bold** and _Italic_ and `Code` text
+### biographies
+- _DE_ Permant Record - Edward Snowden
+- _DE_ Elon Musk - Elon Musk, Ashlee Vance
+- _DE_ Peter Thiel - Thomas Rappold
 
-[Link](url) and ![Image](src)
-```
+### magazines
+- _DE_ Der Spiegel - weekly german news magazine
+- _DE_ 11 Freunde - monthly german football magazine
+- _EN_ The Economist - international weekly newspaper
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rehrler/rehrler.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### newspapers
+- _DE_ NZZaS - weekend edition of NZZ
