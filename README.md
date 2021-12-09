@@ -7,8 +7,7 @@ i'm a robotic researcher at hslu mainly working on mobile robots.
 ## tool recommendations
 
 ### os
-- for my daily work, I prefer [kubuntu](https://kubuntu.org/).
-- on my private computer, I use [endeavouros](https://endeavouros.com/).
+- on my private computer, I use [Arch Linux](https://archlinux.org/).
 - i mostly work with [ros](https://www.ros.org/) as message and service framework with nodes possible in c++ and python.
 - i prefer the ide's by [jetbrains](https://www.jetbrains.com/), especially clion for ros applications and pycharm for pure python projects.
 
@@ -48,3 +47,9 @@ small list of my favorite books, magazines and newspapers
 
 ### newspapers
 - _DE_ NZZaS - weekend edition of NZZ
+
+## Helpful links
+
+[Arch installation with luks guide](links/arch_setup.md)
+
+[Some helpful things](links/roman_helpers.md)
